@@ -2,40 +2,41 @@
 1 Elrond, Master of Healing
 
 1 Aether Vial
-1 Artisan's Sorrow
 1 Arwen Undómiel
 1 Arwen's Gift
-1 Bombadil's Song
+1 Arwen, Weaver of Hope
+1 Beast Within
+1 Bridgeworks Battle // Tanglespan Bridgeworks
 1 Bronze Walrus
 1 Candy Trail
 1 Celeborn the Wise
+1 Chance-Met Elves
 1 Command Tower
 1 Council's Deliberation
-1 Cultivate
 1 Delighted Halfling
+1 Disciple of Freyalise // Garden of Freyalise
 1 Dissolve
-1 Dreadful as the Storm
+1 Elrond, Lord of Rivendell
 1 Elven Farsight
 1 Elvish Archdruid
 1 Elvish Mariner
 1 Elvish Mystic
 1 Evolving Wilds
-1 Explore
 1 Eyes Everywhere
 1 Fangs of Kalonia
-1 Farseek
+1 Foresee
 12 Forest
 1 Freeze in Place
-1 Galadhrim Guide
-1 Galadriel of Lothlórien
 1 Garruk's Uprising
 1 Gift of Strands
-1 Gift of the Viper
-1 Glorious Gale
 1 Grey Havens Navigator
+1 Hadana's Climb // Winged Temple of Orazca
 1 Haldir, Lórien Lieutenant
-1 High Stride
+1 Hinterland Harbor
 1 Hithlain Knots
+1 Hydroelectric Specimen // Hydroelectric Laboratory
+1 Imperious Perfect
+1 Incubation Druid
 1 Innkeeper's Talent
 1 Inspiring Call
 11 Island
@@ -43,39 +44,46 @@
 1 Joraga Warcaller
 1 Legolas, Counter of Kills
 1 Lembas
+1 Lifecrafter's Bestiary
 1 Llanowar Elves
 1 Llanowar Scout
 1 Llanowar Visionary
 1 Lost Isle Calling
 1 Lothlórien Lookout
+1 Marwyn, the Nurturer
 1 Mazemind Tome
-1 Memory Drain
 1 Mirkwood Trapper
-1 Mirrormere Guardian
-1 Moonfolk Puzzlemaker
 1 Nissa's Judgment
+1 Opt
 1 Path of Ancestry
 1 Perilous Voyage
 1 Preordain
 1 Prognostic Sphinx
 1 Rampant Growth
 1 Reliquary Tower
+1 Restless Vinestalk
+1 Rivendell
 1 Season of Growth
 1 Seer's Lantern
 1 Shire Terrace
-1 Shower of Arrows
 1 Sol Ring
-1 Soothing of Sméagol
-1 Sudden Spinnerets
-1 Sunbringer's Touch
+1 Temple of Mystery
 1 Terramorphic Expanse
 1 The Crowd Goes Wild
 1 The Grey Havens
 1 Thickest in the Thicket
 1 Track Down
 1 Treasure Map // Treasure Cove
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
 1 Unity of Purpose
-1 Wall of Runes
+1 Vineglimmer Snarl
 1 Wave Goodbye
-1 Wear Down
 1 Witching Well
+
+// SIDEBOARD
+1 Heroic Intervention
+1 Moonfolk Puzzlemaker
+1 Wear Down
+
+// MAYBEBOARD
+1 Yavimaya Coast
